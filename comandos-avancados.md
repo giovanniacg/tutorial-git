@@ -98,6 +98,8 @@ Após resolver os conflitos, adicione os arquivos modificados usando git add nom
 
 Faça um novo commit para finalizar o processo de merge.
 
+Mais informações em [Comandos Avançados](./comandos-avancados.md).
+
 ---
 ## Recursos Avançados
 O Git oferece recursos avançados para lidar com casos específicos e fluxos de trabalho complexos. Aqui estão alguns deles:
