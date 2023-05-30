@@ -1,11 +1,15 @@
 # Tutorial de Git - Comandos Iniciais
 
+<<<<<<< HEAD
 ## Instalando git
 
 ```Bash
 $ sudo apt-get update
 $ sudo apt-get install git
 ```
+=======
+Tutorial completo como instalar e usar o git no [link](https://www.atlassian.com/br/git/tutorials/install-git).
+>>>>>>> 64aef4e (Adicionando link nos comandos iniciais)
 
 <div style="text-align:justify">
 Este é um tutorial de Git que abrange alguns dos comandos básicos para começar a usar o Git em um projeto.
