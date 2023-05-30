@@ -127,6 +127,8 @@ Tutorial rápido e interativo no [link](https://www.youtube.com/watch?v=wIY824wW
 
 Os submódulos permitem incluir outros repositórios Git como pastas em um repositório principal.
 
+Mais informações no [link](https://www.atlassian.com/br/git/tutorials/git-submodule).
+
 ---
 ## Tags
 
