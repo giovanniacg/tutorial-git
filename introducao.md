@@ -1,0 +1,1 @@
+Este tutorial ajudará você a entender o que é Git e controle de versão, os comandos básicos do Git que você precisa conhecer, como você pode usar seus recursos para aumentar a eficiência do seu trabalho e como estender esses recursos usando o GitHub.
