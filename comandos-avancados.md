@@ -98,7 +98,7 @@ Após resolver os conflitos, adicione os arquivos modificados usando git add nom
 
 Faça um novo commit para finalizar o processo de merge.
 
-Mais informações em [Comandos Avançados](./comandos-avancados.md).
+Mais informações em [Resolvendo conflitos](./resolvendo-conflitos.md).
 
 ---
 ## Recursos Avançados
