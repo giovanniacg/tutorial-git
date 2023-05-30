@@ -110,13 +110,17 @@ git rebase -i commit_referencia
 
 Esse comando permite reorganizar, editar ou combinar commits antes deles serem adicionados ao histórico principal.
 
+Tutorial rápido e interativo no [link](https://www.youtube.com/watch?v=kMvLn8WcAII&ab_channel=Ihatetomatoes).
+
 ### Cherry-pick
 
 ```bash
 git cherry-pick commit_referencia
 ```
 
-Esse comando permite aplicar um commit específico a um branch diferente.
+Esse comando permite aplicar um commit específico a um branch diferente. 
+
+Tutorial rápido e interativo no [link](https://www.youtube.com/watch?v=wIY824wWpu4&ab_channel=Ihatetomatoes).
 
 ---
 ## Submódulos
