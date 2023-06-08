@@ -1,5 +1,12 @@
 # Tutorial de Git - Comandos Iniciais
 
+## Instalando git
+
+```Bash
+$ sudo apt-get update
+$ sudo apt-get install git
+```
+
 <div style="text-align:justify">
 Este é um tutorial de Git que abrange alguns dos comandos básicos para começar a usar o Git em um projeto.
 </div>
