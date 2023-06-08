@@ -17,11 +17,7 @@ Esse comando lista os arquivos com conflitos no output.
 Abra os arquivos com conflitos em um editor de código. Os conflitos são marcados com marcadores especiais no código, que geralmente se parecem com isto:
 
 ```plaintext
-<<<<<<< HEAD
-Código atual na branch atual
-=======
 Código que está sendo mesclado da outra branch
->>>>>>> other_branch
 ```
 
 A seção entre `<<<<<<< HEAD` e `=======` representa as alterações da branch atual, enquanto a seção entre `=======` e `>>>>>>> other_branch` representa as alterações da outra branch.
