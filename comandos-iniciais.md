@@ -1,5 +1,7 @@
 # Tutorial de Git - Comandos Iniciais
 
+Tutorial completo como instalar e usar o git no [link](https://www.atlassian.com/br/git/tutorials/install-git).
+
 <div style="text-align:justify">
 Este é um tutorial de Git que abrange alguns dos comandos básicos para começar a usar o Git em um projeto.
 </div>
