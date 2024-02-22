@@ -98,6 +98,8 @@ Após resolver os conflitos, adicione os arquivos modificados usando git add nom
 
 Faça um novo commit para finalizar o processo de merge.
 
+Mais informações em [Resolvendo conflitos](./resolvendo-conflitos.md).
+
 ---
 ## Recursos Avançados
 O Git oferece recursos avançados para lidar com casos específicos e fluxos de trabalho complexos. Aqui estão alguns deles:
@@ -126,6 +128,8 @@ Tutorial rápido e interativo no [link](https://www.youtube.com/watch?v=wIY824wW
 ## Submódulos
 
 Os submódulos permitem incluir outros repositórios Git como pastas em um repositório principal.
+
+Mais informações no [link](https://www.atlassian.com/br/git/tutorials/git-submodule).
 
 ---
 ## Tags
