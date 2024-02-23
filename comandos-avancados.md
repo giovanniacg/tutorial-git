@@ -98,6 +98,8 @@ Após resolver os conflitos, adicione os arquivos modificados usando git add nom
 
 Faça um novo commit para finalizar o processo de merge.
 
+Mais informações em [Resolvendo conflitos](./resolvendo-conflitos.md).
+
 ---
 ## Recursos Avançados
 O Git oferece recursos avançados para lidar com casos específicos e fluxos de trabalho complexos. Aqui estão alguns deles:
@@ -110,18 +112,24 @@ git rebase -i commit_referencia
 
 Esse comando permite reorganizar, editar ou combinar commits antes deles serem adicionados ao histórico principal.
 
+Tutorial rápido e interativo no [link](https://www.youtube.com/watch?v=kMvLn8WcAII&ab_channel=Ihatetomatoes).
+
 ### Cherry-pick
 
 ```bash
 git cherry-pick commit_referencia
 ```
 
-Esse comando permite aplicar um commit específico a um branch diferente.
+Esse comando permite aplicar um commit específico a um branch diferente. 
+
+Tutorial rápido e interativo no [link](https://www.youtube.com/watch?v=wIY824wWpu4&ab_channel=Ihatetomatoes).
 
 ---
 ## Submódulos
 
 Os submódulos permitem incluir outros repositórios Git como pastas em um repositório principal.
+
+Mais informações no [link](https://www.atlassian.com/br/git/tutorials/git-submodule).
 
 ---
 ## Tags
